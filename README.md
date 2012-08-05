@@ -1,0 +1,4 @@
+forgottenvegetable
+==================
+
+creates simple rpms
